@@ -1,7 +1,8 @@
-# Okta
+#1 Okta
 Third party authentication
 ------------------------------------------------------------------------------------------------------
 #2 OktaSpringBootSAMLDemo app-
+------------------------------------------------------------------------------------------------------
 *NOTE: in spring Okta SAML configuration example we need to create keystore.jks file in resources/saml/
 for creating this-
                     From a terminal window, navigate to the src/main/resources directory of your app and create a saml directory. Navigate into the directory and run the following command. Use “secret” when prompted for a keystore password.
